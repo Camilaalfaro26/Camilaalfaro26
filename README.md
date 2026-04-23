@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hola, soy Cami ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF4ECD&center=true&vCenter=true&width=600&lines=.Diseñadora+gráfica+%2B+Ingeniera+en+informática;Creatividad+%2B+Tecnología+💻🎨;Construyendo+ideas+con+propósito;Siempre+aprendiendo+y+evolucionando+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4ECD&center=true&vCenter=true&width=600&lines=Diseñadora+gráfica+%2B+Ingeniera+en+informática;Creatividad+%2B+Tecnología+💻🎨;Construyendo+ideas+con+propósito;Siempre+aprendiendo+y+evolucionando+🚀">
 </p>
 
 <p align="center">
