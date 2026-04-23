@@ -26,9 +26,7 @@ me interesa crear cosas que **tengan impacto real**
 - 💻 Desarrollo de software  
 - 🎨 Diseño gráfico y UI/UX  
 - 🧩 Resolución de problemas  
-- 🧠 Psicología aplicada a productos digitales  
 - 📱 Creación de apps con propósito  
-- 🏋️‍♀️ Bienestar físico y disciplina personal  
 
 ---
 
