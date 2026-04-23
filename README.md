@@ -43,7 +43,6 @@ me interesa crear cosas que **tengan impacto real**
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
----
 
 ### 💻 Programación en C++
 - Ejercicios de lógica  
